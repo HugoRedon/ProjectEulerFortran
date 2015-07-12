@@ -1,0 +1,17 @@
+      Programm two
+      Integer fib1,fib2,sum,fin,b2
+      Sum=0
+      Fib=0
+      Fib1=1
+      Fib2=2
+      While fib .lt. 100
+      Fib=fib1+fib2
+      Fib1=fib2
+      Fib2=fin
+      Print *, fib
+      B2=mod(fib,2)
+      If b2.eq.0 then
+      Sum=sum+Fib
+      End if
+      End while
+      End programm two
